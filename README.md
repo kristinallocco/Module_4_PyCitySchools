@@ -11,11 +11,6 @@ The school board reported a suspicion of dishonesty amongst the ninth-grade stud
   - <img width="900" alt="Overall Passing Original" src="https://user-images.githubusercontent.com/85713470/142332224-0b024a0d-6dfc-432e-bb58-5c4fdc7af7e5.png">
   - <img width="900" alt="Overall Passing Updated" src="https://user-images.githubusercontent.com/85713470/142332248-61475126-1849-45e6-b48d-81aa82819b0c.png">
 
-- How is the school summary affected?
-  - The passing percentage for the school fell to 65%
-  - 
-  - 
-
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - The top five performing schools still included Thomas High School, even with the ninth-grade students omitted.
   - <img width="900" alt="Top 5 Schools Original" src="https://user-images.githubusercontent.com/85713470/142332369-68933109-c7aa-42d9-976d-afbba00643c4.png">
@@ -36,3 +31,4 @@ The school board reported a suspicion of dishonesty amongst the ninth-grade stud
 
     
 ## Summary
+Although the purpose of the analysis was to determine whether or not academic dishonesty impacted Thomas High School's standing, it appears that the difference between the original findings and those after removing the ninth-grades are within 1-2% of eachother. Additionally, removing the grade from the data set did not significantly impact any of the other performance metrics including school capita, size and type of school. Also, Thomas High School remained in the top 5 performing schools in both analyses. 
